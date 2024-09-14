@@ -1,7 +1,9 @@
-# LG Silicon Valley Lab Apollo 5.0 Fork
-This repository is a fork of [Apollo](https://github.com/ApolloAuto/apollo) maintained by the LG Electronics Silicon Valley Lab which has modified and configured to facilitate use with [LG's Automotive Simulator](https://github.com/lgsvl/simulator).
+# COLA: Characterizing and Optimizing the Tail Latency of Autnomous Vehicles
+This repo shows the open source profiling code of [COLA](https://arxiv.org/abs/2305.07147) to benchmark the tail latency of autonomous vehicles. This is the code for Baidu Apollo.
 
-**The software and source code in this repository are intended only for use with LG Automotive Simulator and *should not* be used in a real vehicle.**
+
+This repository is a fork of [Apollo](https://github.com/ApolloAuto/apollo) that can work with [CARLA Simulator](https://carla.org/) and [LG's Automotive Simulator](https://github.com/lgsvl/simulator).
+
 
 ## Table of Contents
 
